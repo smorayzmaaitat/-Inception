@@ -16,7 +16,8 @@ A docker-network that establishes the connection between your containers.
 Your containers have to restart in case of a crash.
 Here is an example diagram of the expected result:
 
-![Uploading 147146268-a616f39a-3f16-41f8-80c9-db5494c3dfe7.png…]()
+<img width="562" alt="147146268-a616f39a-3f16-41f8-80c9-db5494c3dfe7" src="https://github.com/smorayzmaaitat/-Inception/assets/65847371/d2b8dadf-891e-4cef-8ca3-be4d8d9766f1">
+
 
 
 Screen Shot 2021-12-22 at 8 38 03 PM
